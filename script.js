@@ -22,4 +22,4 @@ function setGradient() {
 color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
 
-// add random colors to buttons
+// add random colors to both buttons

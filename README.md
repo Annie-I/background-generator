@@ -1,2 +1,1 @@
-# background-generator
-Without random
+# background-generator project
